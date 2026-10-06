@@ -1,0 +1,11 @@
+{
+  "warehouse": "Northstar Logistics · Newark DC",
+  "snapshot": "2026-10-05T06:00:00Z",
+  "items": [
+    {"sku": "SKU-4821", "name": "Stretch wrap 18 inch", "aliases": ["stretch wrap", "wrap"], "bins": [{"aisle": 7, "bin": "07-B-03", "on_hand": 144, "reserved": 24, "held": 0}, {"aisle": 7, "bin": "07-B-04", "on_hand": 60, "reserved": 0, "held": 12}, {"aisle": 12, "bin": "12-A-01", "on_hand": 240, "reserved": 80, "held": 0}]},
+    {"sku": "SKU-4822", "name": "Stretch wrap 12 inch", "aliases": ["stretch wrap", "wrap"], "bins": [{"aisle": 7, "bin": "07-C-01", "on_hand": 96, "reserved": 16, "held": 0}]},
+    {"sku": "SKU-1050", "name": "Shipping cartons medium", "aliases": ["cartons", "medium cartons"], "bins": [{"aisle": 3, "bin": "03-A-02", "on_hand": 800, "reserved": 200, "held": 0}]},
+    {"sku": "SKU-7710", "name": "Safety gloves large", "aliases": ["gloves", "safety gloves"], "bins": [{"aisle": 2, "bin": "02-D-06", "on_hand": 32, "reserved": 32, "held": 0}]},
+    {"sku": "SKU-2099", "name": "Thermal labels 4 by 6", "aliases": ["labels", "thermal labels"], "bins": [{"aisle": 9, "bin": "09-A-01", "on_hand": 0, "reserved": 0, "held": 0}]}
+  ]
+}
